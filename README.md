@@ -46,16 +46,16 @@ Users can log applications, update their progress through the interview pipeline
 ## 📁 Project Structure
 
 backend/
-  server.js
-  data/applications.json
-  package.json
+server.js
+data/applications.json
+package.json
 
 frontend/
-  index.html
-  vite.config.js
-  src/
-    App.jsx
-    main.jsx
-    index.css
-    services/jobTrackerApi.js
-    components/JobApplicationTracker.jsx
+index.html
+vite.config.js
+src/
+App.jsx
+main.jsx
+index.css
+services/jobTrackerApi.js
+components/JobApplicationTracker.jsx
